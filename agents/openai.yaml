@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Writing"
+  short_description: "把已确认的需求整理为结构清晰、可验收的中文 PRD"
+  default_prompt: "先和我讨论并确认产品方案；当我说生成 PRD 时，请自行判断需求复杂度、选择合适案例，并将未确认内容标注为待确认。"
